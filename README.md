@@ -1,11 +1,10 @@
-Portfolio Data Science et Business Intelligence
-Par Maroua Lamrani
-
+# **Portfolio Data Science et Business Intelligence** 
+## **Par Maroua Lamrani**
 Je suis Maroua Lamrani, étudiante en deuxième année de Master en Ingénierie de la Décision. Passionnée par l'analyse des données, la Business Intelligence et les méthodes quantitatives appliquées à la prise de décision, je conçois et développe des solutions analytiques permettant d'extraire de la valeur stratégique à partir des données.
 
 Mon ambition professionnelle est d'évoluer en tant que Data Analyst ou Data Scientist en mobilisant des compétences techniques avancées en data science, en visualisation et en intelligence décisionnelle afin de répondre aux problématiques métiers et soutenir les organisations dans leurs décisions stratégiques.
 
-Compétences Techniques
+## **Compétences Techniques**
 
 Business Intelligence et Analyse Décisionnelle
 Power BI Desktop : modélisation de données, langage DAX, conception de tableaux de bord interactifs et rapports analytiques
